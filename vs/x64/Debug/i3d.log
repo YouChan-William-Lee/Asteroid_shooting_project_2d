@@ -1,0 +1,9 @@
+﻿  main.cpp
+E:\RMIT - Bachelor of Computer Science\Year 3\Sem 1\Interactive 3D Graphics and Animation\Assignment 1\i3d\vs\main.cpp(22,46): warning C4311: 'type cast': pointer truncation from 'void *' to 'int'
+E:\RMIT - Bachelor of Computer Science\Year 3\Sem 1\Interactive 3D Graphics and Animation\Assignment 1\i3d\vs\main.cpp(22,46): warning C4302: 'type cast': truncation from 'void *' to 'int'
+E:\RMIT - Bachelor of Computer Science\Year 3\Sem 1\Interactive 3D Graphics and Animation\Assignment 1\i3d\vs\main.cpp(51,84): warning C4312: 'type cast': conversion from 'const int' to 'void *' of greater size
+E:\RMIT - Bachelor of Computer Science\Year 3\Sem 1\Interactive 3D Graphics and Animation\Assignment 1\i3d\vs\main.cpp(52,124): warning C4312: 'type cast': conversion from 'const int' to 'void *' of greater size
+E:\RMIT - Bachelor of Computer Science\Year 3\Sem 1\Interactive 3D Graphics and Animation\Assignment 1\i3d\vs\main.cpp(53,128): warning C4312: 'type cast': conversion from 'const int' to 'void *' of greater size
+E:\RMIT - Bachelor of Computer Science\Year 3\Sem 1\Interactive 3D Graphics and Animation\Assignment 1\i3d\vs\main.cpp(54,123): warning C4312: 'type cast': conversion from 'const int' to 'void *' of greater size
+E:\RMIT - Bachelor of Computer Science\Year 3\Sem 1\Interactive 3D Graphics and Animation\Assignment 1\i3d\vs\main.cpp(87,39): warning C4312: 'type cast': conversion from 'const int' to 'void *' of greater size
+E:\RMIT - Bachelor of Computer Science\Year 3\Sem 1\Interactive 3D Graphics and Animation\Assignment 1\i3d\vs\main.cpp(91,39): warning C4312: 'type cast': conversion from 'const int' to 'void *' of greater size
